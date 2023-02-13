@@ -24,7 +24,7 @@ public class companyTest extends baseTest
 		cPage  = hPage.clickCompaniesOption();
 	}
 
-	
+//new code	
 	@Test
 	public void registerCompany() throws InterruptedException
 	{
